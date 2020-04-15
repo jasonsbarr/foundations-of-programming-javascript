@@ -1,4 +1,8 @@
 site_name: Foundations of Programming in JavaScript
+site_description: Building a foundation for a lifelong journey into software engineering
+site_author: Jason Barr <me@jasonbarr.dev>
+copyright: "&copy; 2020 Jason S. Barr. All rights reserved."
 theme:
   name: mkdocs
   hljs_style: hybrid
+repo_url: https://github.com/jasonsbarr/foundations-of-programming-javascript
