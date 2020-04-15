@@ -4,7 +4,7 @@ site_author: Jason Barr <me@jasonbarr.dev>
 copyright: "&copy; 2020 Jason S. Barr. All rights reserved."
 theme:
   name: mkdocs
-  hljs_style: hybrid
+  hljs_style: darcula
 nav:
   - Home: 'index.md'
 extra_javascript:
