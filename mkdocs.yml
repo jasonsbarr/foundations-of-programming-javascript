@@ -7,3 +7,5 @@ theme:
   hljs_style: hybrid
 nav:
   - Home: 'index.md'
+extra_javascript:
+  - js/app.js

@@ -1,0 +1,27 @@
+{
+  "name": "foundations-of-programming-in-javascript",
+  "version": "1.0.0",
+  "description": "Intro to programming course using JavaScript",
+  "main": "docs/js/app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonsbarr/foundations-of-programming-javascript.git"
+  },
+  "keywords": [
+    "tutorial",
+    "course",
+    "javascript"
+  ],
+  "author": "Jason Barr <me@jasonbarr.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonsbarr/foundations-of-programming-javascript/issues"
+  },
+  "homepage": "https://github.com/jasonsbarr/foundations-of-programming-javascript#readme"
+}
