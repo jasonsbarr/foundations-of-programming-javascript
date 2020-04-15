@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jasonsbarr/foundations-of-programming-javascript/issues"
   },
-  "homepage": "https://github.com/jasonsbarr/foundations-of-programming-javascript#readme"
+  "homepage": "https://github.com/jasonsbarr/foundations-of-programming-javascript#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
