@@ -1,4 +1,5 @@
 site/
 node_modules/
 .cache/
-docs/js/
+docs/js/app.js
+docs/js/app.js.map
