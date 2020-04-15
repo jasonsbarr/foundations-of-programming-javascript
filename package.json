@@ -28,5 +28,8 @@
   "homepage": "https://github.com/jasonsbarr/foundations-of-programming-javascript#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "codemirror": "^5.52.2"
   }
 }
