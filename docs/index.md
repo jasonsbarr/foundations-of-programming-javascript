@@ -27,3 +27,7 @@ I'm going to tell you right now that, while those moments are incredibly frustra
 ## Are you ready?
 
 Let's dive in!
+
+```js
+console.log("Let's test the code highlighting");
+```

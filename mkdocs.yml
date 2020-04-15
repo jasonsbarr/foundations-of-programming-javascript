@@ -1,3 +1,4 @@
 site_name: Foundations of Programming in JavaScript
 theme:
-  name: readthedocs
+  name: mkdocs
+  hljs_style: hybrid
