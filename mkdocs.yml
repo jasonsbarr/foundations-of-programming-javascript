@@ -7,5 +7,8 @@ theme:
   hljs_style: darcula
 nav:
   - Home: 'index.md'
+extra_css:
+  - css/codemirror.css
+  - css/darcula.css
 extra_javascript:
   - js/app.js
