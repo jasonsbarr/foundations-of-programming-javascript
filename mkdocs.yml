@@ -8,8 +8,6 @@ theme:
 nav:
   - Home: 'index.md'
 extra_css:
-  - css/codemirror.css
-  - css/darcula.css
   - css/app.css
 extra_javascript:
   - js/app.js
