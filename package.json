@@ -7,7 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel watch lib/app.js --out-dir docs/js",
+    "build": "parcel build lib/app.js --out-dir docs/js"
   },
   "repository": {
     "type": "git",
@@ -24,8 +26,9 @@
     "url": "https://github.com/jasonsbarr/foundations-of-programming-javascript/issues"
   },
   "homepage": "https://github.com/jasonsbarr/foundations-of-programming-javascript#readme",
-  "devDependencies": {},
-  "dependencies": {
-    "codemirror": "^5.52.2"
-  }
+  "devDependencies": {
+    "bundler": "^0.8.0",
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {}
 }
