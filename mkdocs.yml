@@ -5,9 +5,11 @@ copyright: "&copy; 2020 Jason S. Barr. All rights reserved."
 theme:
   name: mkdocs
   hljs_style: darcula
-nav:
-  - Home: 'index.md'
 extra_css:
   - css/app.css
 extra_javascript:
   - js/app.js
+nav:
+  - Home: index.md
+  - Introduction:
+    - Computers and computing: intro/computers.md
