@@ -1,0 +1,13 @@
+blockquote {
+  font-style: italic;
+  margin-left: 32px;
+}
+
+code.js {
+  font-size: 16px;
+}
+
+.caption {
+  margin-top:-32px;
+  text-align:center;
+}
