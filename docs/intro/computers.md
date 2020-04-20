@@ -63,7 +63,7 @@ This was extremely inefficient and error-prone, so computer scientists invented 
 
 **Compiled** programs are run through a translator program that turns a human-readable program into machine language so it can be executed.
 
-**Interpreted** programs are run through a translator program that executes the program's instructions on the fly, without the intermediate step of compiling.
+**Interpreted** programs are run through a translator program that executes the program's instructions on the fly, without the intermediate step of compiling. They are usually slower than compiled programs because the computer has to translate the code into a format it can read line-by-line instead of having it done in advance.
 
 JavaScript is technically an interpreted language, though modern JavaScript engines blur the lines between compiling and interpreting the code with a specialized technique known as **Just-In-Time** compiling. This allows your browser and other JavaScript runtime environments to work more efficiently without making you compile the code to binary in advance.
 
