@@ -51,7 +51,7 @@ How exactly a program is written depends on many things: the programming languag
 
 For example, a program can have detailed instructions on *how* the computer should compute a solution. This is known as **imperative** programming style.
 
-A program could also simple tell the computer *what to do*, and let it handle the steps itself. This is **declarative** programming style.
+A program could also simply tell the computer *what to do*, and let it handle the steps itself. This is **declarative** programming style.
 
 Some languages require you to use one style or the other, but JavaScript is flexible enough to let you mix the two styles as appropriate for your programs. In this course you'll become fluent in both styles and learn a bit about how to determine what style is best for the task you're trying to accomplish.
 
@@ -79,4 +79,4 @@ Ada Lovelace was a 19th century writer and mathematician who worked with the inv
 
 Thus Lovelace anticipated the implications of modern computing, which is used in just about every area in which humans work and play, to a far greater degree than even the designer of the first complete computer could even imagine.
 
-Let's start learning how to make her vision a reality!
+Let's start learning how to make her vision a reality with JavaScript!
