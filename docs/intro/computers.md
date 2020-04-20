@@ -10,9 +10,7 @@ When you can answer the second question, that goes a long way towards answering 
 
 Today we think of computers as electronic machines that do all sorts of things for us, but the first "computers" were actually human beings.
 
-In fact, the earliest reference to the word "computer" comes from a book published in 1613.
-
-It was talking about a person who did mathematical calculations.
+In fact, the earliest reference to the word "computer" comes from a book published in 1613, and it was talking about a person who did mathematical calculations.
 
 "Computer" as a term was used exclusively in this manner until mechanical computing machines became more commonplace around the late 19th century.
 
